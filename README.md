@@ -16,5 +16,8 @@ This repository showcases the key data analytics projects I have worked on, usin
    -  Analyzed conversion rates at each funnel stage to uncover areas for improvement, recommending strategies to reduce cart abandonment and enhance successful            order completions.  
 4. **Interactive Dashboard (Power BI)**  
    - Built Power BI dashboards to visualize performance and trends.
+   - ![Dashboard](![image](https://github.com/user-attachments/assets/6ce9c6cf-1310-4d8f-b5b7-23f86aced832))
+
+
      
       
