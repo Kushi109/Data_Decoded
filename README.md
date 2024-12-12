@@ -11,9 +11,9 @@ This repository showcases the key data analytics projects I have worked on, usin
    - Wrote efficient SQL queries to uncover customer purchase patterns and high-performing product categories.  
    - Delivered insights on retention strategies, contributing to revenue growth and personalized marketing.
 
-3. **E-Commerce Funnel Analysis**  
-   - Investigated user journey data to identify key drop-off points using funnel analysis.  
-   - Recommended UX and payment process improvements, significantly reducing cart abandonment rates.  
+3. **Funnel Analysis**  
+   - Conducted funnel analysis to evaluate user progression from browsing to order completion, identifying key stages where customers dropped off.
+   -  Analyzed conversion rates at each funnel stage to uncover areas for improvement, recommending strategies to reduce cart abandonment and enhance successful            order completions.  
 4. **Interactive Dashboard (Power BI)**  
    - Built Power BI dashboards to visualize performance and trends.
      
